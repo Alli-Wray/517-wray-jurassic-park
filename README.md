@@ -15,3 +15,14 @@ Week 3 Assignment Practice Docs-as-Code: Part 2
 7. Jurassic World: Rebirth
 
 ### Notable Actors/Characters
+
+* Sam Neill
+* Laura Dern
+* Jeff Goldblum
+* Richard Attenborough
+* Alessandro Nivola
+* Chris Pratt
+* Bryce Dallas Howard
+* Scarlett Johansson
+* Jonathan Bailey
+* Mahershala Ali
