@@ -16,13 +16,14 @@ Week 3 Assignment Practice Docs-as-Code: Part 2
 
 ### Notable Actors/Characters
 
-* Sam Neill
-* Laura Dern
-* Jeff Goldblum
-* Richard Attenborough
-* Alessandro Nivola
-* Chris Pratt
-* Bryce Dallas Howard
-* Scarlett Johansson
-* Jonathan Bailey
-* Mahershala Ali
+* Sam Neill [Character: Alan Grant](https://jurassicpark.fandom.com/wiki/Alan_Grant)
+* Laura Dern [Character: Ellie Sattler](https://jurassicpark.fandom.com/wiki/Ellie_Sattler)
+* Jeff Goldblum [Character: Ian Malcolm](https://jurassicpark.fandom.com/wiki/Ian_Malcolm)
+* Richard Attenborough [Character: John Hammond](https://jurassicpark.fandom.com/wiki/John_Hammond)
+* Alessandro Nivola [Character: Billy Brennan](https://jurassicpark.fandom.com/wiki/Billy_Brennan)
+* Chris Pratt [Character: Owen Grady](https://jurassicpark.fandom.com/wiki/Owen_Grady)
+* Bryce Dallas Howard [Character: Claire Dearing](https://jurassicpark.fandom.com/wiki/Claire_Dearing)
+* BD Wong [Character: Henry Wu](https://jurassicpark.fandom.com/wiki/Henry_Wu)
+* Scarlett Johansson [Character: Zora Bennett](https://jurassicpark.fandom.com/wiki/Zora_Bennett)
+* Jonathan Bailey [Character: Henry Loomis](https://jurassicpark.fandom.com/wiki/Henry_Loomis)
+* Mahershala Ali [Character: Duncan Kincaid](https://jurassicpark.fandom.com/wiki/Duncan_Kincaid)
