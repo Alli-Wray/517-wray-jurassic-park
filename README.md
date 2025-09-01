@@ -4,6 +4,8 @@ Week 3 Assignment Practice Docs-as-Code: Part 2
 
 ## Jurassic Park Franchise: Quick Facts
 
+![Jurassic World Dominion Imax Poster](images/Jurassic-World-Dominion-IMAX-Poster-1.avif)
+
 ### Jurassic Movies in Order
 
 1. Jurassic Park
